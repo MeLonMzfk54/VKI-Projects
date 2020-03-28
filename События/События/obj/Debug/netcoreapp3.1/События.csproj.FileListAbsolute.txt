@@ -1,0 +1,13 @@
+C:\Users\MeLonMzfk\source\repos\События\События\bin\Debug\netcoreapp3.1\События.exe
+C:\Users\MeLonMzfk\source\repos\События\События\bin\Debug\netcoreapp3.1\События.deps.json
+C:\Users\MeLonMzfk\source\repos\События\События\bin\Debug\netcoreapp3.1\События.runtimeconfig.json
+C:\Users\MeLonMzfk\source\repos\События\События\bin\Debug\netcoreapp3.1\События.runtimeconfig.dev.json
+C:\Users\MeLonMzfk\source\repos\События\События\bin\Debug\netcoreapp3.1\События.dll
+C:\Users\MeLonMzfk\source\repos\События\События\bin\Debug\netcoreapp3.1\События.pdb
+C:\Users\MeLonMzfk\source\repos\События\События\obj\Debug\netcoreapp3.1\События.csprojAssemblyReference.cache
+C:\Users\MeLonMzfk\source\repos\События\События\obj\Debug\netcoreapp3.1\События.csproj.CoreCompileInputs.cache
+C:\Users\MeLonMzfk\source\repos\События\События\obj\Debug\netcoreapp3.1\События.AssemblyInfoInputs.cache
+C:\Users\MeLonMzfk\source\repos\События\События\obj\Debug\netcoreapp3.1\События.AssemblyInfo.cs
+C:\Users\MeLonMzfk\source\repos\События\События\obj\Debug\netcoreapp3.1\События.dll
+C:\Users\MeLonMzfk\source\repos\События\События\obj\Debug\netcoreapp3.1\События.pdb
+C:\Users\MeLonMzfk\source\repos\События\События\obj\Debug\netcoreapp3.1\События.genruntimeconfig.cache

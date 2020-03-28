@@ -1,0 +1,13 @@
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\bin\Debug\netcoreapp3.1\Делегаты.exe
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\bin\Debug\netcoreapp3.1\Делегаты.deps.json
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\bin\Debug\netcoreapp3.1\Делегаты.runtimeconfig.json
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\bin\Debug\netcoreapp3.1\Делегаты.runtimeconfig.dev.json
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\bin\Debug\netcoreapp3.1\Делегаты.dll
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\bin\Debug\netcoreapp3.1\Делегаты.pdb
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\obj\Debug\netcoreapp3.1\Делегаты.csprojAssemblyReference.cache
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\obj\Debug\netcoreapp3.1\Делегаты.csproj.CoreCompileInputs.cache
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\obj\Debug\netcoreapp3.1\Делегаты.AssemblyInfoInputs.cache
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\obj\Debug\netcoreapp3.1\Делегаты.AssemblyInfo.cs
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\obj\Debug\netcoreapp3.1\Делегаты.dll
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\obj\Debug\netcoreapp3.1\Делегаты.pdb
+C:\Users\MeLonMzfk\source\repos\Делегаты\Делегаты\obj\Debug\netcoreapp3.1\Делегаты.genruntimeconfig.cache

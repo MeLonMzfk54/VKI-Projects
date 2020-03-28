@@ -1,0 +1,13 @@
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\bin\Debug\netcoreapp3.1\graph.exe
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\bin\Debug\netcoreapp3.1\graph.deps.json
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\bin\Debug\netcoreapp3.1\graph.runtimeconfig.json
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\bin\Debug\netcoreapp3.1\graph.runtimeconfig.dev.json
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\bin\Debug\netcoreapp3.1\graph.dll
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\bin\Debug\netcoreapp3.1\graph.pdb
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\obj\Debug\netcoreapp3.1\graph.csprojAssemblyReference.cache
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\obj\Debug\netcoreapp3.1\graph.csproj.CoreCompileInputs.cache
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\obj\Debug\netcoreapp3.1\graph.AssemblyInfoInputs.cache
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\obj\Debug\netcoreapp3.1\graph.AssemblyInfo.cs
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\obj\Debug\netcoreapp3.1\graph.dll
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\obj\Debug\netcoreapp3.1\graph.pdb
+C:\Users\MeLonMzfk\source\repos\ГРАФ\graph\graph\obj\Debug\netcoreapp3.1\graph.genruntimeconfig.cache

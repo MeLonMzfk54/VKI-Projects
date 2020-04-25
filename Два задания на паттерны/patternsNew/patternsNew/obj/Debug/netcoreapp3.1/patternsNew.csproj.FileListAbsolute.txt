@@ -1,0 +1,13 @@
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\bin\Debug\netcoreapp3.1\patternsNew.exe
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\bin\Debug\netcoreapp3.1\patternsNew.deps.json
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\bin\Debug\netcoreapp3.1\patternsNew.runtimeconfig.json
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\bin\Debug\netcoreapp3.1\patternsNew.runtimeconfig.dev.json
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\bin\Debug\netcoreapp3.1\patternsNew.dll
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\bin\Debug\netcoreapp3.1\patternsNew.pdb
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\obj\Debug\netcoreapp3.1\patternsNew.csprojAssemblyReference.cache
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\obj\Debug\netcoreapp3.1\patternsNew.csproj.CoreCompileInputs.cache
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\obj\Debug\netcoreapp3.1\patternsNew.AssemblyInfoInputs.cache
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\obj\Debug\netcoreapp3.1\patternsNew.AssemblyInfo.cs
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\obj\Debug\netcoreapp3.1\patternsNew.dll
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\obj\Debug\netcoreapp3.1\patternsNew.pdb
+C:\Users\MeLonMzfk\source\repos\patternsNew\patternsNew\obj\Debug\netcoreapp3.1\patternsNew.genruntimeconfig.cache

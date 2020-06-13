@@ -1,0 +1,14 @@
+D:\Faimen\C# Labs\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+D:\Faimen\C# Labs\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+D:\Faimen\C# Labs\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+D:\Faimen\C# Labs\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csprojAssemblyReference.cache
+D:\Faimen\C# Labs\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+D:\Faimen\C# Labs\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+D:\Faimen\C# Labs\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb
+C:\Users\MeLonMzfk\Desktop\RegularExpression\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\Users\MeLonMzfk\Desktop\RegularExpression\RegularExpression\RegularExpression\bin\Debug\RegularExpression.exe
+C:\Users\MeLonMzfk\Desktop\RegularExpression\RegularExpression\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\Users\MeLonMzfk\Desktop\RegularExpression\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csprojAssemblyReference.cache
+C:\Users\MeLonMzfk\Desktop\RegularExpression\RegularExpression\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\MeLonMzfk\Desktop\RegularExpression\RegularExpression\RegularExpression\obj\Debug\RegularExpression.exe
+C:\Users\MeLonMzfk\Desktop\RegularExpression\RegularExpression\RegularExpression\obj\Debug\RegularExpression.pdb
